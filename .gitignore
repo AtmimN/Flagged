@@ -1,0 +1,27 @@
+# Dependencies & Build Output
+node_modules/
+dist/
+
+# Documentation & Notes
+docs/
+
+# Legacy / Unused Files from Pre-Vite Migration
+js/
+css/
+index.old.html
+email_icon.png
+run.bat
+
+# Logs & Debug Files
+firebase-debug.log
+*.log
+npm-debug.log*
+
+# Environment & Local Config
+.env
+.env.*
+*.local
+
+# OS & Editor Files
+.DS_Store
+Thumbs.db
